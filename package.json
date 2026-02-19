@@ -1,0 +1,42 @@
+{
+  "name": "@ucdjs/data-pipelines",
+  "version": "0.0.0",
+  "type": "module",
+  "private": true,
+  "author": {
+    "name": "Lucas Nørgaard",
+    "email": "lucasnrgaard@gmail.com",
+    "url": "https://luxass.dev"
+  },
+  "packageManager": "pnpm@10.29.3",
+  "license": "MIT",
+  "homepage": "https://github.com/ucdjs/data-pipelines",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucdjs/data-pipelines.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ucdjs/data-pipelines/issues"
+  },
+  "engines": {
+    "node": ">=24.13"
+  },
+  "scripts": {
+    "pipelines:list": "ucd pipelines list --cwd .",
+    "pipelines:run": "ucd pipelines run --cwd .",
+    "pipelines:run:ui": "ucd pipelines run --cwd . --ui",
+    "typecheck": "tsc --noEmit",
+    "fmt": "oxfmt",
+    "fmt:check": "oxfmt --check",
+    "lint": "oxlint ."
+  },
+  "dependencies": {
+    "@ucdjs/pipelines-core": "0.0.1-beta.6"
+  },
+  "devDependencies": {
+    "@ucdjs/cli": "0.3.1-beta.6",
+    "typescript": "^5.9.3",
+    "oxfmt": "^0.32.0",
+    "oxlint": "^1.47.0"
+  }
+}
