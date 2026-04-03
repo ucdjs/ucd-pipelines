@@ -1,5 +1,4 @@
 import { createHttpSource } from "@ucdjs/pipelines-core/sources";
-import { byExt } from "@ucdjs/pipelines-core";
 
 export interface UcdStoreSourceOptions {
   baseUrl?: string;
@@ -13,7 +12,7 @@ export function createUcdStoreSource(options: UcdStoreSourceOptions = {}) {
     id: "ucd-store",
     baseUrl,
     headers: {
-      "Accept": "text/plain",
+      Accept: "text/plain",
     },
   });
 }

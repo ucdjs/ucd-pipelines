@@ -72,6 +72,7 @@ pnpm pipelines:run:ui
 ```
 
 This opens a user-friendly interface where you can:
+
 - Select and configure pipelines
 - Monitor execution progress
 - View results and logs
@@ -79,9 +80,10 @@ This opens a user-friendly interface where you can:
 ## Adding a New Pipeline
 
 1. **Create a route** in `routes/<category>/<file>.route.ts`:
+
    ```typescript
    import { definePipelineRoute, byName } from "@ucdjs/pipelines-core";
-   
+
    export const myRoute = definePipelineRoute({
      id: "my-route",
      filter: byName("MyFile.txt"),
@@ -95,11 +97,12 @@ This opens a user-friendly interface where you can:
    ```
 
 2. **Create a pipeline** in `pipelines/<category>/<file>.ucd-pipeline.ts`:
+
    ```typescript
    import { definePipeline, byExt } from "@ucdjs/pipelines-core";
    import { createUcdStoreSource } from "../../sources/ucd-store.source";
    import { myRoute } from "../../routes/<category>/my.route";
-   
+
    export const myPipeline = definePipeline({
      id: "my-pipeline",
      name: "My Pipeline",
@@ -112,9 +115,10 @@ This opens a user-friendly interface where you can:
    ```
 
 3. **Export from registry** in `index.ts`:
+
    ```typescript
    export { myPipeline } from "./pipelines/<category>/my.ucd-pipeline";
-   
+
    // Add to pipelines array
    export const pipelines = [
      // ...existing pipelines

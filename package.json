@@ -1,26 +1,22 @@
 {
   "name": "@ucdjs/data-pipelines",
   "version": "0.0.0",
-  "type": "module",
   "private": true,
+  "homepage": "https://github.com/ucdjs/ucd-pipelines",
+  "bugs": {
+    "url": "https://github.com/ucdjs/ucd-pipelines/issues"
+  },
+  "license": "MIT",
   "author": {
     "name": "Lucas Nørgaard",
     "email": "lucasnrgaard@gmail.com",
     "url": "https://luxass.dev"
   },
-  "packageManager": "pnpm@10.29.3",
-  "license": "MIT",
-  "homepage": "https://github.com/ucdjs/ucd-pipelines",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ucdjs/ucd-pipelines.git"
   },
-  "bugs": {
-    "url": "https://github.com/ucdjs/ucd-pipelines/issues"
-  },
-  "engines": {
-    "node": ">=24.13"
-  },
+  "type": "module",
   "scripts": {
     "pipelines:list": "ucd pipelines list --cwd .",
     "pipelines:run": "ucd pipelines run --cwd .",
@@ -34,11 +30,15 @@
     "@ucdjs/pipelines-core": "catalog:pipelines"
   },
   "devDependencies": {
+    "@types/node": "catalog:types",
     "@ucdjs/cli": "catalog:pipelines",
-    "typescript": "catalog:dev",
     "oxfmt": "catalog:dev",
     "oxlint": "catalog:dev",
     "oxlint-tsgolint": "catalog:dev",
-    "@types/node": "catalog:types"
-  }
+    "typescript": "catalog:dev"
+  },
+  "engines": {
+    "node": ">=24.13"
+  },
+  "packageManager": "pnpm@10.29.3"
 }

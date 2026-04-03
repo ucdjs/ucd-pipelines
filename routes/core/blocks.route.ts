@@ -6,12 +6,12 @@ export const blocksRoute = definePipelineRoute({
   filter: byName("Blocks.txt"),
   parser: async function* (ctx) {
     const lines = ctx.readLines();
-    
+
     for await (const line of lines) {
       // Skip comments and empty lines
       const trimmed = line.trim();
       if (!trimmed || trimmed.startsWith("#")) continue;
-      
+
       // Parse format: "startCode..endCode; Block Name"
       const match = trimmed.match(/^([0-9A-F]+)\.\.([0-9A-F]+);\s*(.+)$/);
       if (match) {
@@ -35,12 +35,14 @@ export const blocksRoute = definePipelineRoute({
         });
       }
     }
-    
-    return [{
-      version: ctx.version,
-      property: "Block",
-      file: ctx.file.name,
-      entries,
-    }];
+
+    return [
+      {
+        version: ctx.version,
+        property: "Block",
+        file: ctx.file.name,
+        entries,
+      },
+    ];
   },
 });

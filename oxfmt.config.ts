@@ -14,5 +14,5 @@ export default defineConfig({
     ],
     newlinesBetween: true,
     order: "asc",
-  }
+  },
 });
