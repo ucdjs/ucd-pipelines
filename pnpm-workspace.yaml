@@ -5,6 +5,9 @@ catalogMode: prefer
 strictDepBuilds: true
 blockExoticSubdeps: true
 
+overrides:
+  undici-types: 6.24.0
+
 minimumReleaseAgeExclude:
   - "@ucdjs/*"
 

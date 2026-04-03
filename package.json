@@ -38,6 +38,7 @@
     "typescript": "catalog:dev",
     "oxfmt": "catalog:dev",
     "oxlint": "catalog:dev",
-    "oxlint-tsgolint": "catalog:dev"
+    "oxlint-tsgolint": "catalog:dev",
+    "@types/node": "catalog:types"
   }
 }
