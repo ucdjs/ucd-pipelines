@@ -10,13 +10,13 @@
   },
   "packageManager": "pnpm@10.29.3",
   "license": "MIT",
-  "homepage": "https://github.com/ucdjs/data-pipelines",
+  "homepage": "https://github.com/ucdjs/ucd-pipelines",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ucdjs/data-pipelines.git"
+    "url": "git+https://github.com/ucdjs/ucd-pipelines.git"
   },
   "bugs": {
-    "url": "https://github.com/ucdjs/data-pipelines/issues"
+    "url": "https://github.com/ucdjs/ucd-pipelines/issues"
   },
   "engines": {
     "node": ">=24.13"
@@ -31,12 +31,13 @@
     "lint": "oxlint ."
   },
   "dependencies": {
-    "@ucdjs/pipelines-core": "0.0.1-beta.6"
+    "@ucdjs/pipelines-core": "catalog:pipelines"
   },
   "devDependencies": {
-    "@ucdjs/cli": "0.3.1-beta.6",
-    "typescript": "^5.9.3",
-    "oxfmt": "^0.32.0",
-    "oxlint": "^1.47.0"
+    "@ucdjs/cli": "catalog:pipelines",
+    "typescript": "catalog:dev",
+    "oxfmt": "catalog:dev",
+    "oxlint": "catalog:dev",
+    "oxlint-tsgolint": "catalog:dev"
   }
 }
