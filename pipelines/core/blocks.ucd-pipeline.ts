@@ -1,7 +1,6 @@
+import { blocksRoute } from "#routes/core/blocks";
+import { createUcdStoreSource } from "#sources/ucd-store";
 import { definePipeline, byExt } from "@ucdjs/pipelines-core";
-
-import { blocksRoute } from "../../routes/core/blocks.route";
-import { createUcdStoreSource } from "../../sources/ucd-store.source";
 
 export const blocksPipeline = definePipeline({
   id: "blocks",

@@ -17,6 +17,10 @@
     "url": "git+https://github.com/ucdjs/ucd-pipelines.git"
   },
   "type": "module",
+  "imports": {
+    "#sources/*": "./sources/*.source.ts",
+    "#routes/*": "./routes/*.route.ts"
+  },
   "scripts": {
     "pipelines:list": "ucd pipelines list --cwd .",
     "pipelines:run": "ucd pipelines run --cwd .",
