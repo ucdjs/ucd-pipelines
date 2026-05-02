@@ -1,18 +1,10 @@
-import { createHttpSource } from "@ucdjs/pipelines-core/sources";
+import HTTPFileSystemBackend from "@ucdjs/fs-backend/backends/http";
+import { definePipelineSource } from "@ucdjs/pipeline-core";
 
-export interface UcdStoreSourceOptions {
-  baseUrl?: string;
-  version?: string;
-}
-
-export function createUcdStoreSource(options: UcdStoreSourceOptions = {}) {
-  const { baseUrl = "https://api.ucdjs.dev/api/v1/files" } = options;
-
-  return createHttpSource({
-    id: "ucd-store",
-    baseUrl,
-    headers: {
-      Accept: "text/plain",
-    },
-  });
-}
+export const ucdStoreSource = definePipelineSource({
+  id: "ucd-store",
+  backend: HTTPFileSystemBackend({
+    // baseUrl: "https://ucd-store.ucdjs.dev",
+    baseUrl: "http://localhost:8788"
+  }),
+});

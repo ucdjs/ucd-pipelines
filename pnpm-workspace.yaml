@@ -10,6 +10,8 @@ overrides:
 
 minimumReleaseAgeExclude:
   - "@ucdjs/*"
+  - "@ucdjs-internal/*"
+  - "@unicode-utils/*"
 
 catalogs:
   dev:
@@ -21,8 +23,9 @@ catalogs:
     typescript: 6.0.2
 
   pipelines:
-    "@ucdjs/pipelines-core": 0.0.1-beta.8
-    "@ucdjs/cli": 0.3.1-beta.10
+    "@ucdjs/pipeline-core": 0.0.1-beta.9
+    "@ucdjs/fs-backend": 0.1.0-beta.3
+    "@ucdjs/cli": 0.3.1-beta.11
 
   types:
     "@types/node": 22.19.14

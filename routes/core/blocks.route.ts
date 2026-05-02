@@ -1,28 +1,24 @@
-import { definePipelineRoute, byName } from "@ucdjs/pipelines-core";
-import type { ResolvedEntry } from "@ucdjs/pipelines-core";
+import type { ResolvedEntry } from "@ucdjs/pipeline-core";
+import { byName, definePipelineRoute, filesystemSink } from "@ucdjs/pipeline-core";
 
 export const blocksRoute = definePipelineRoute({
   id: "blocks",
   filter: byName("Blocks.txt"),
   parser: async function* (ctx) {
-    const lines = ctx.readLines();
-
-    for await (const line of lines) {
-      // Skip comments and empty lines
+    for await (const line of ctx.readLines()) {
       const trimmed = line.trim();
-      if (!trimmed || trimmed.startsWith("#")) continue;
+      if (!trimmed || ctx.isComment(trimmed)) continue;
 
-      // Parse format: "startCode..endCode; Block Name"
-      const match = trimmed.match(/^([0-9A-F]+)\.\.([0-9A-F]+);\s*(.+)$/);
-      if (match) {
-        yield {
-          sourceFile: ctx.file.path,
-          kind: "range" as const,
-          start: match[1],
-          end: match[2],
-          value: match[3].trim(),
-        };
-      }
+      const match = /^([0-9A-F]+)\.\.([0-9A-F]+);\s*(.+)$/.exec(trimmed);
+      if (!match) continue;
+
+      yield {
+        sourceFile: ctx.file.path,
+        kind: "range" as const,
+        start: match[1],
+        end: match[2],
+        value: match[3]!.trim(),
+      };
     }
   },
   resolver: async (ctx, rows) => {
@@ -45,4 +41,12 @@ export const blocksRoute = definePipelineRoute({
       },
     ];
   },
+  outputs: [
+    {
+      id: "json",
+      sink: filesystemSink({ baseDir: "output" }),
+      format: "json",
+      path: "{version}/{property:kebab}.json",
+    },
+  ],
 });

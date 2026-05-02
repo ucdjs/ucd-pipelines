@@ -1,0 +1,13 @@
+{
+  "name": "@ucdjs/template-data",
+  "version": "0.0.0",
+  "type": "module",
+  "exports": {
+    "./data/*.json": "./data/*.json",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "data"
+  ],
+  "sideEffects": false
+}
