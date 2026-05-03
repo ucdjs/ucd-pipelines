@@ -1,7 +1,21 @@
 {
-  "name": "@ucdjs/template-data",
+  "name": "@ucdjs-data/data-{{version}}",
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://ucdjs.dev",
+  "bugs": {
+    "url": "https://github.com/ucdjs/data-{{version}}/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Lucas Nørgaard",
+    "email": "lucasnrgaard@gmail.com",
+    "url": "https://luxass.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucdjs/data-{{version}}.git"
+  },
   "exports": {
     "./data/*.json": "./data/*.json",
     "./package.json": "./package.json"
