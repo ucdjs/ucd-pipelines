@@ -1,0 +1,3319 @@
+{
+  "version": "15.1.0",
+  "property": "Arabic_Shaping",
+  "file": "ArabicShaping.txt",
+  "entries": [
+    {
+      "codePoint": "0600",
+      "value": "U"
+    },
+    {
+      "codePoint": "0601",
+      "value": "U"
+    },
+    {
+      "codePoint": "0602",
+      "value": "U"
+    },
+    {
+      "codePoint": "0603",
+      "value": "U"
+    },
+    {
+      "codePoint": "0604",
+      "value": "U"
+    },
+    {
+      "codePoint": "0605",
+      "value": "U"
+    },
+    {
+      "codePoint": "0608",
+      "value": "U"
+    },
+    {
+      "codePoint": "060B",
+      "value": "U"
+    },
+    {
+      "codePoint": "0620",
+      "value": "D"
+    },
+    {
+      "codePoint": "0621",
+      "value": "U"
+    },
+    {
+      "codePoint": "0622",
+      "value": "R"
+    },
+    {
+      "codePoint": "0623",
+      "value": "R"
+    },
+    {
+      "codePoint": "0624",
+      "value": "R"
+    },
+    {
+      "codePoint": "0625",
+      "value": "R"
+    },
+    {
+      "codePoint": "0626",
+      "value": "D"
+    },
+    {
+      "codePoint": "0627",
+      "value": "R"
+    },
+    {
+      "codePoint": "0628",
+      "value": "D"
+    },
+    {
+      "codePoint": "0629",
+      "value": "R"
+    },
+    {
+      "codePoint": "062A",
+      "value": "D"
+    },
+    {
+      "codePoint": "062B",
+      "value": "D"
+    },
+    {
+      "codePoint": "062C",
+      "value": "D"
+    },
+    {
+      "codePoint": "062D",
+      "value": "D"
+    },
+    {
+      "codePoint": "062E",
+      "value": "D"
+    },
+    {
+      "codePoint": "062F",
+      "value": "R"
+    },
+    {
+      "codePoint": "0630",
+      "value": "R"
+    },
+    {
+      "codePoint": "0631",
+      "value": "R"
+    },
+    {
+      "codePoint": "0632",
+      "value": "R"
+    },
+    {
+      "codePoint": "0633",
+      "value": "D"
+    },
+    {
+      "codePoint": "0634",
+      "value": "D"
+    },
+    {
+      "codePoint": "0635",
+      "value": "D"
+    },
+    {
+      "codePoint": "0636",
+      "value": "D"
+    },
+    {
+      "codePoint": "0637",
+      "value": "D"
+    },
+    {
+      "codePoint": "0638",
+      "value": "D"
+    },
+    {
+      "codePoint": "0639",
+      "value": "D"
+    },
+    {
+      "codePoint": "063A",
+      "value": "D"
+    },
+    {
+      "codePoint": "063B",
+      "value": "D"
+    },
+    {
+      "codePoint": "063C",
+      "value": "D"
+    },
+    {
+      "codePoint": "063D",
+      "value": "D"
+    },
+    {
+      "codePoint": "063E",
+      "value": "D"
+    },
+    {
+      "codePoint": "063F",
+      "value": "D"
+    },
+    {
+      "codePoint": "0640",
+      "value": "C"
+    },
+    {
+      "codePoint": "0641",
+      "value": "D"
+    },
+    {
+      "codePoint": "0642",
+      "value": "D"
+    },
+    {
+      "codePoint": "0643",
+      "value": "D"
+    },
+    {
+      "codePoint": "0644",
+      "value": "D"
+    },
+    {
+      "codePoint": "0645",
+      "value": "D"
+    },
+    {
+      "codePoint": "0646",
+      "value": "D"
+    },
+    {
+      "codePoint": "0647",
+      "value": "D"
+    },
+    {
+      "codePoint": "0648",
+      "value": "R"
+    },
+    {
+      "codePoint": "0649",
+      "value": "D"
+    },
+    {
+      "codePoint": "064A",
+      "value": "D"
+    },
+    {
+      "codePoint": "066E",
+      "value": "D"
+    },
+    {
+      "codePoint": "066F",
+      "value": "D"
+    },
+    {
+      "codePoint": "0671",
+      "value": "R"
+    },
+    {
+      "codePoint": "0672",
+      "value": "R"
+    },
+    {
+      "codePoint": "0673",
+      "value": "R"
+    },
+    {
+      "codePoint": "0674",
+      "value": "U"
+    },
+    {
+      "codePoint": "0675",
+      "value": "R"
+    },
+    {
+      "codePoint": "0676",
+      "value": "R"
+    },
+    {
+      "codePoint": "0677",
+      "value": "R"
+    },
+    {
+      "codePoint": "0678",
+      "value": "D"
+    },
+    {
+      "codePoint": "0679",
+      "value": "D"
+    },
+    {
+      "codePoint": "067A",
+      "value": "D"
+    },
+    {
+      "codePoint": "067B",
+      "value": "D"
+    },
+    {
+      "codePoint": "067C",
+      "value": "D"
+    },
+    {
+      "codePoint": "067D",
+      "value": "D"
+    },
+    {
+      "codePoint": "067E",
+      "value": "D"
+    },
+    {
+      "codePoint": "067F",
+      "value": "D"
+    },
+    {
+      "codePoint": "0680",
+      "value": "D"
+    },
+    {
+      "codePoint": "0681",
+      "value": "D"
+    },
+    {
+      "codePoint": "0682",
+      "value": "D"
+    },
+    {
+      "codePoint": "0683",
+      "value": "D"
+    },
+    {
+      "codePoint": "0684",
+      "value": "D"
+    },
+    {
+      "codePoint": "0685",
+      "value": "D"
+    },
+    {
+      "codePoint": "0686",
+      "value": "D"
+    },
+    {
+      "codePoint": "0687",
+      "value": "D"
+    },
+    {
+      "codePoint": "0688",
+      "value": "R"
+    },
+    {
+      "codePoint": "0689",
+      "value": "R"
+    },
+    {
+      "codePoint": "068A",
+      "value": "R"
+    },
+    {
+      "codePoint": "068B",
+      "value": "R"
+    },
+    {
+      "codePoint": "068C",
+      "value": "R"
+    },
+    {
+      "codePoint": "068D",
+      "value": "R"
+    },
+    {
+      "codePoint": "068E",
+      "value": "R"
+    },
+    {
+      "codePoint": "068F",
+      "value": "R"
+    },
+    {
+      "codePoint": "0690",
+      "value": "R"
+    },
+    {
+      "codePoint": "0691",
+      "value": "R"
+    },
+    {
+      "codePoint": "0692",
+      "value": "R"
+    },
+    {
+      "codePoint": "0693",
+      "value": "R"
+    },
+    {
+      "codePoint": "0694",
+      "value": "R"
+    },
+    {
+      "codePoint": "0695",
+      "value": "R"
+    },
+    {
+      "codePoint": "0696",
+      "value": "R"
+    },
+    {
+      "codePoint": "0697",
+      "value": "R"
+    },
+    {
+      "codePoint": "0698",
+      "value": "R"
+    },
+    {
+      "codePoint": "0699",
+      "value": "R"
+    },
+    {
+      "codePoint": "069A",
+      "value": "D"
+    },
+    {
+      "codePoint": "069B",
+      "value": "D"
+    },
+    {
+      "codePoint": "069C",
+      "value": "D"
+    },
+    {
+      "codePoint": "069D",
+      "value": "D"
+    },
+    {
+      "codePoint": "069E",
+      "value": "D"
+    },
+    {
+      "codePoint": "069F",
+      "value": "D"
+    },
+    {
+      "codePoint": "06A0",
+      "value": "D"
+    },
+    {
+      "codePoint": "06A1",
+      "value": "D"
+    },
+    {
+      "codePoint": "06A2",
+      "value": "D"
+    },
+    {
+      "codePoint": "06A3",
+      "value": "D"
+    },
+    {
+      "codePoint": "06A4",
+      "value": "D"
+    },
+    {
+      "codePoint": "06A5",
+      "value": "D"
+    },
+    {
+      "codePoint": "06A6",
+      "value": "D"
+    },
+    {
+      "codePoint": "06A7",
+      "value": "D"
+    },
+    {
+      "codePoint": "06A8",
+      "value": "D"
+    },
+    {
+      "codePoint": "06A9",
+      "value": "D"
+    },
+    {
+      "codePoint": "06AA",
+      "value": "D"
+    },
+    {
+      "codePoint": "06AB",
+      "value": "D"
+    },
+    {
+      "codePoint": "06AC",
+      "value": "D"
+    },
+    {
+      "codePoint": "06AD",
+      "value": "D"
+    },
+    {
+      "codePoint": "06AE",
+      "value": "D"
+    },
+    {
+      "codePoint": "06AF",
+      "value": "D"
+    },
+    {
+      "codePoint": "06B0",
+      "value": "D"
+    },
+    {
+      "codePoint": "06B1",
+      "value": "D"
+    },
+    {
+      "codePoint": "06B2",
+      "value": "D"
+    },
+    {
+      "codePoint": "06B3",
+      "value": "D"
+    },
+    {
+      "codePoint": "06B4",
+      "value": "D"
+    },
+    {
+      "codePoint": "06B5",
+      "value": "D"
+    },
+    {
+      "codePoint": "06B6",
+      "value": "D"
+    },
+    {
+      "codePoint": "06B7",
+      "value": "D"
+    },
+    {
+      "codePoint": "06B8",
+      "value": "D"
+    },
+    {
+      "codePoint": "06B9",
+      "value": "D"
+    },
+    {
+      "codePoint": "06BA",
+      "value": "D"
+    },
+    {
+      "codePoint": "06BB",
+      "value": "D"
+    },
+    {
+      "codePoint": "06BC",
+      "value": "D"
+    },
+    {
+      "codePoint": "06BD",
+      "value": "D"
+    },
+    {
+      "codePoint": "06BE",
+      "value": "D"
+    },
+    {
+      "codePoint": "06BF",
+      "value": "D"
+    },
+    {
+      "codePoint": "06C0",
+      "value": "R"
+    },
+    {
+      "codePoint": "06C1",
+      "value": "D"
+    },
+    {
+      "codePoint": "06C2",
+      "value": "D"
+    },
+    {
+      "codePoint": "06C3",
+      "value": "R"
+    },
+    {
+      "codePoint": "06C4",
+      "value": "R"
+    },
+    {
+      "codePoint": "06C5",
+      "value": "R"
+    },
+    {
+      "codePoint": "06C6",
+      "value": "R"
+    },
+    {
+      "codePoint": "06C7",
+      "value": "R"
+    },
+    {
+      "codePoint": "06C8",
+      "value": "R"
+    },
+    {
+      "codePoint": "06C9",
+      "value": "R"
+    },
+    {
+      "codePoint": "06CA",
+      "value": "R"
+    },
+    {
+      "codePoint": "06CB",
+      "value": "R"
+    },
+    {
+      "codePoint": "06CC",
+      "value": "D"
+    },
+    {
+      "codePoint": "06CD",
+      "value": "R"
+    },
+    {
+      "codePoint": "06CE",
+      "value": "D"
+    },
+    {
+      "codePoint": "06CF",
+      "value": "R"
+    },
+    {
+      "codePoint": "06D0",
+      "value": "D"
+    },
+    {
+      "codePoint": "06D1",
+      "value": "D"
+    },
+    {
+      "codePoint": "06D2",
+      "value": "R"
+    },
+    {
+      "codePoint": "06D3",
+      "value": "R"
+    },
+    {
+      "codePoint": "06D5",
+      "value": "R"
+    },
+    {
+      "codePoint": "06DD",
+      "value": "U"
+    },
+    {
+      "codePoint": "06EE",
+      "value": "R"
+    },
+    {
+      "codePoint": "06EF",
+      "value": "R"
+    },
+    {
+      "codePoint": "06FA",
+      "value": "D"
+    },
+    {
+      "codePoint": "06FB",
+      "value": "D"
+    },
+    {
+      "codePoint": "06FC",
+      "value": "D"
+    },
+    {
+      "codePoint": "06FF",
+      "value": "D"
+    },
+    {
+      "codePoint": "070F",
+      "value": "T"
+    },
+    {
+      "codePoint": "0710",
+      "value": "R"
+    },
+    {
+      "codePoint": "0712",
+      "value": "D"
+    },
+    {
+      "codePoint": "0713",
+      "value": "D"
+    },
+    {
+      "codePoint": "0714",
+      "value": "D"
+    },
+    {
+      "codePoint": "0715",
+      "value": "R"
+    },
+    {
+      "codePoint": "0716",
+      "value": "R"
+    },
+    {
+      "codePoint": "0717",
+      "value": "R"
+    },
+    {
+      "codePoint": "0718",
+      "value": "R"
+    },
+    {
+      "codePoint": "0719",
+      "value": "R"
+    },
+    {
+      "codePoint": "071A",
+      "value": "D"
+    },
+    {
+      "codePoint": "071B",
+      "value": "D"
+    },
+    {
+      "codePoint": "071C",
+      "value": "D"
+    },
+    {
+      "codePoint": "071D",
+      "value": "D"
+    },
+    {
+      "codePoint": "071E",
+      "value": "R"
+    },
+    {
+      "codePoint": "071F",
+      "value": "D"
+    },
+    {
+      "codePoint": "0720",
+      "value": "D"
+    },
+    {
+      "codePoint": "0721",
+      "value": "D"
+    },
+    {
+      "codePoint": "0722",
+      "value": "D"
+    },
+    {
+      "codePoint": "0723",
+      "value": "D"
+    },
+    {
+      "codePoint": "0724",
+      "value": "D"
+    },
+    {
+      "codePoint": "0725",
+      "value": "D"
+    },
+    {
+      "codePoint": "0726",
+      "value": "D"
+    },
+    {
+      "codePoint": "0727",
+      "value": "D"
+    },
+    {
+      "codePoint": "0728",
+      "value": "R"
+    },
+    {
+      "codePoint": "0729",
+      "value": "D"
+    },
+    {
+      "codePoint": "072A",
+      "value": "R"
+    },
+    {
+      "codePoint": "072B",
+      "value": "D"
+    },
+    {
+      "codePoint": "072C",
+      "value": "R"
+    },
+    {
+      "codePoint": "072D",
+      "value": "D"
+    },
+    {
+      "codePoint": "072E",
+      "value": "D"
+    },
+    {
+      "codePoint": "072F",
+      "value": "R"
+    },
+    {
+      "codePoint": "074D",
+      "value": "R"
+    },
+    {
+      "codePoint": "074E",
+      "value": "D"
+    },
+    {
+      "codePoint": "074F",
+      "value": "D"
+    },
+    {
+      "codePoint": "0750",
+      "value": "D"
+    },
+    {
+      "codePoint": "0751",
+      "value": "D"
+    },
+    {
+      "codePoint": "0752",
+      "value": "D"
+    },
+    {
+      "codePoint": "0753",
+      "value": "D"
+    },
+    {
+      "codePoint": "0754",
+      "value": "D"
+    },
+    {
+      "codePoint": "0755",
+      "value": "D"
+    },
+    {
+      "codePoint": "0756",
+      "value": "D"
+    },
+    {
+      "codePoint": "0757",
+      "value": "D"
+    },
+    {
+      "codePoint": "0758",
+      "value": "D"
+    },
+    {
+      "codePoint": "0759",
+      "value": "R"
+    },
+    {
+      "codePoint": "075A",
+      "value": "R"
+    },
+    {
+      "codePoint": "075B",
+      "value": "R"
+    },
+    {
+      "codePoint": "075C",
+      "value": "D"
+    },
+    {
+      "codePoint": "075D",
+      "value": "D"
+    },
+    {
+      "codePoint": "075E",
+      "value": "D"
+    },
+    {
+      "codePoint": "075F",
+      "value": "D"
+    },
+    {
+      "codePoint": "0760",
+      "value": "D"
+    },
+    {
+      "codePoint": "0761",
+      "value": "D"
+    },
+    {
+      "codePoint": "0762",
+      "value": "D"
+    },
+    {
+      "codePoint": "0763",
+      "value": "D"
+    },
+    {
+      "codePoint": "0764",
+      "value": "D"
+    },
+    {
+      "codePoint": "0765",
+      "value": "D"
+    },
+    {
+      "codePoint": "0766",
+      "value": "D"
+    },
+    {
+      "codePoint": "0767",
+      "value": "D"
+    },
+    {
+      "codePoint": "0768",
+      "value": "D"
+    },
+    {
+      "codePoint": "0769",
+      "value": "D"
+    },
+    {
+      "codePoint": "076A",
+      "value": "D"
+    },
+    {
+      "codePoint": "076B",
+      "value": "R"
+    },
+    {
+      "codePoint": "076C",
+      "value": "R"
+    },
+    {
+      "codePoint": "076D",
+      "value": "D"
+    },
+    {
+      "codePoint": "076E",
+      "value": "D"
+    },
+    {
+      "codePoint": "076F",
+      "value": "D"
+    },
+    {
+      "codePoint": "0770",
+      "value": "D"
+    },
+    {
+      "codePoint": "0771",
+      "value": "R"
+    },
+    {
+      "codePoint": "0772",
+      "value": "D"
+    },
+    {
+      "codePoint": "0773",
+      "value": "R"
+    },
+    {
+      "codePoint": "0774",
+      "value": "R"
+    },
+    {
+      "codePoint": "0775",
+      "value": "D"
+    },
+    {
+      "codePoint": "0776",
+      "value": "D"
+    },
+    {
+      "codePoint": "0777",
+      "value": "D"
+    },
+    {
+      "codePoint": "0778",
+      "value": "R"
+    },
+    {
+      "codePoint": "0779",
+      "value": "R"
+    },
+    {
+      "codePoint": "077A",
+      "value": "D"
+    },
+    {
+      "codePoint": "077B",
+      "value": "D"
+    },
+    {
+      "codePoint": "077C",
+      "value": "D"
+    },
+    {
+      "codePoint": "077D",
+      "value": "D"
+    },
+    {
+      "codePoint": "077E",
+      "value": "D"
+    },
+    {
+      "codePoint": "077F",
+      "value": "D"
+    },
+    {
+      "codePoint": "07CA",
+      "value": "D"
+    },
+    {
+      "codePoint": "07CB",
+      "value": "D"
+    },
+    {
+      "codePoint": "07CC",
+      "value": "D"
+    },
+    {
+      "codePoint": "07CD",
+      "value": "D"
+    },
+    {
+      "codePoint": "07CE",
+      "value": "D"
+    },
+    {
+      "codePoint": "07CF",
+      "value": "D"
+    },
+    {
+      "codePoint": "07D0",
+      "value": "D"
+    },
+    {
+      "codePoint": "07D1",
+      "value": "D"
+    },
+    {
+      "codePoint": "07D2",
+      "value": "D"
+    },
+    {
+      "codePoint": "07D3",
+      "value": "D"
+    },
+    {
+      "codePoint": "07D4",
+      "value": "D"
+    },
+    {
+      "codePoint": "07D5",
+      "value": "D"
+    },
+    {
+      "codePoint": "07D6",
+      "value": "D"
+    },
+    {
+      "codePoint": "07D7",
+      "value": "D"
+    },
+    {
+      "codePoint": "07D8",
+      "value": "D"
+    },
+    {
+      "codePoint": "07D9",
+      "value": "D"
+    },
+    {
+      "codePoint": "07DA",
+      "value": "D"
+    },
+    {
+      "codePoint": "07DB",
+      "value": "D"
+    },
+    {
+      "codePoint": "07DC",
+      "value": "D"
+    },
+    {
+      "codePoint": "07DD",
+      "value": "D"
+    },
+    {
+      "codePoint": "07DE",
+      "value": "D"
+    },
+    {
+      "codePoint": "07DF",
+      "value": "D"
+    },
+    {
+      "codePoint": "07E0",
+      "value": "D"
+    },
+    {
+      "codePoint": "07E1",
+      "value": "D"
+    },
+    {
+      "codePoint": "07E2",
+      "value": "D"
+    },
+    {
+      "codePoint": "07E3",
+      "value": "D"
+    },
+    {
+      "codePoint": "07E4",
+      "value": "D"
+    },
+    {
+      "codePoint": "07E5",
+      "value": "D"
+    },
+    {
+      "codePoint": "07E6",
+      "value": "D"
+    },
+    {
+      "codePoint": "07E7",
+      "value": "D"
+    },
+    {
+      "codePoint": "07E8",
+      "value": "D"
+    },
+    {
+      "codePoint": "07E9",
+      "value": "D"
+    },
+    {
+      "codePoint": "07EA",
+      "value": "D"
+    },
+    {
+      "codePoint": "07FA",
+      "value": "C"
+    },
+    {
+      "codePoint": "0840",
+      "value": "R"
+    },
+    {
+      "codePoint": "0841",
+      "value": "D"
+    },
+    {
+      "codePoint": "0842",
+      "value": "D"
+    },
+    {
+      "codePoint": "0843",
+      "value": "D"
+    },
+    {
+      "codePoint": "0844",
+      "value": "D"
+    },
+    {
+      "codePoint": "0845",
+      "value": "D"
+    },
+    {
+      "codePoint": "0846",
+      "value": "R"
+    },
+    {
+      "codePoint": "0847",
+      "value": "R"
+    },
+    {
+      "codePoint": "0848",
+      "value": "D"
+    },
+    {
+      "codePoint": "0849",
+      "value": "R"
+    },
+    {
+      "codePoint": "084A",
+      "value": "D"
+    },
+    {
+      "codePoint": "084B",
+      "value": "D"
+    },
+    {
+      "codePoint": "084C",
+      "value": "D"
+    },
+    {
+      "codePoint": "084D",
+      "value": "D"
+    },
+    {
+      "codePoint": "084E",
+      "value": "D"
+    },
+    {
+      "codePoint": "084F",
+      "value": "D"
+    },
+    {
+      "codePoint": "0850",
+      "value": "D"
+    },
+    {
+      "codePoint": "0851",
+      "value": "D"
+    },
+    {
+      "codePoint": "0852",
+      "value": "D"
+    },
+    {
+      "codePoint": "0853",
+      "value": "D"
+    },
+    {
+      "codePoint": "0854",
+      "value": "R"
+    },
+    {
+      "codePoint": "0855",
+      "value": "D"
+    },
+    {
+      "codePoint": "0856",
+      "value": "R"
+    },
+    {
+      "codePoint": "0857",
+      "value": "R"
+    },
+    {
+      "codePoint": "0858",
+      "value": "R"
+    },
+    {
+      "codePoint": "0860",
+      "value": "D"
+    },
+    {
+      "codePoint": "0861",
+      "value": "U"
+    },
+    {
+      "codePoint": "0862",
+      "value": "D"
+    },
+    {
+      "codePoint": "0863",
+      "value": "D"
+    },
+    {
+      "codePoint": "0864",
+      "value": "D"
+    },
+    {
+      "codePoint": "0865",
+      "value": "D"
+    },
+    {
+      "codePoint": "0866",
+      "value": "U"
+    },
+    {
+      "codePoint": "0867",
+      "value": "R"
+    },
+    {
+      "codePoint": "0868",
+      "value": "D"
+    },
+    {
+      "codePoint": "0869",
+      "value": "R"
+    },
+    {
+      "codePoint": "086A",
+      "value": "R"
+    },
+    {
+      "codePoint": "0870",
+      "value": "R"
+    },
+    {
+      "codePoint": "0871",
+      "value": "R"
+    },
+    {
+      "codePoint": "0872",
+      "value": "R"
+    },
+    {
+      "codePoint": "0873",
+      "value": "R"
+    },
+    {
+      "codePoint": "0874",
+      "value": "R"
+    },
+    {
+      "codePoint": "0875",
+      "value": "R"
+    },
+    {
+      "codePoint": "0876",
+      "value": "R"
+    },
+    {
+      "codePoint": "0877",
+      "value": "R"
+    },
+    {
+      "codePoint": "0878",
+      "value": "R"
+    },
+    {
+      "codePoint": "0879",
+      "value": "R"
+    },
+    {
+      "codePoint": "087A",
+      "value": "R"
+    },
+    {
+      "codePoint": "087B",
+      "value": "R"
+    },
+    {
+      "codePoint": "087C",
+      "value": "R"
+    },
+    {
+      "codePoint": "087D",
+      "value": "R"
+    },
+    {
+      "codePoint": "087E",
+      "value": "R"
+    },
+    {
+      "codePoint": "087F",
+      "value": "R"
+    },
+    {
+      "codePoint": "0880",
+      "value": "R"
+    },
+    {
+      "codePoint": "0881",
+      "value": "R"
+    },
+    {
+      "codePoint": "0882",
+      "value": "R"
+    },
+    {
+      "codePoint": "0883",
+      "value": "C"
+    },
+    {
+      "codePoint": "0884",
+      "value": "C"
+    },
+    {
+      "codePoint": "0885",
+      "value": "C"
+    },
+    {
+      "codePoint": "0886",
+      "value": "D"
+    },
+    {
+      "codePoint": "0887",
+      "value": "U"
+    },
+    {
+      "codePoint": "0888",
+      "value": "U"
+    },
+    {
+      "codePoint": "0889",
+      "value": "D"
+    },
+    {
+      "codePoint": "088A",
+      "value": "D"
+    },
+    {
+      "codePoint": "088B",
+      "value": "D"
+    },
+    {
+      "codePoint": "088C",
+      "value": "D"
+    },
+    {
+      "codePoint": "088D",
+      "value": "D"
+    },
+    {
+      "codePoint": "088E",
+      "value": "R"
+    },
+    {
+      "codePoint": "0890",
+      "value": "U"
+    },
+    {
+      "codePoint": "0891",
+      "value": "U"
+    },
+    {
+      "codePoint": "08A0",
+      "value": "D"
+    },
+    {
+      "codePoint": "08A1",
+      "value": "D"
+    },
+    {
+      "codePoint": "08A2",
+      "value": "D"
+    },
+    {
+      "codePoint": "08A3",
+      "value": "D"
+    },
+    {
+      "codePoint": "08A4",
+      "value": "D"
+    },
+    {
+      "codePoint": "08A5",
+      "value": "D"
+    },
+    {
+      "codePoint": "08A6",
+      "value": "D"
+    },
+    {
+      "codePoint": "08A7",
+      "value": "D"
+    },
+    {
+      "codePoint": "08A8",
+      "value": "D"
+    },
+    {
+      "codePoint": "08A9",
+      "value": "D"
+    },
+    {
+      "codePoint": "08AA",
+      "value": "R"
+    },
+    {
+      "codePoint": "08AB",
+      "value": "R"
+    },
+    {
+      "codePoint": "08AC",
+      "value": "R"
+    },
+    {
+      "codePoint": "08AD",
+      "value": "U"
+    },
+    {
+      "codePoint": "08AE",
+      "value": "R"
+    },
+    {
+      "codePoint": "08AF",
+      "value": "D"
+    },
+    {
+      "codePoint": "08B0",
+      "value": "D"
+    },
+    {
+      "codePoint": "08B1",
+      "value": "R"
+    },
+    {
+      "codePoint": "08B2",
+      "value": "R"
+    },
+    {
+      "codePoint": "08B3",
+      "value": "D"
+    },
+    {
+      "codePoint": "08B4",
+      "value": "D"
+    },
+    {
+      "codePoint": "08B5",
+      "value": "D"
+    },
+    {
+      "codePoint": "08B6",
+      "value": "D"
+    },
+    {
+      "codePoint": "08B7",
+      "value": "D"
+    },
+    {
+      "codePoint": "08B8",
+      "value": "D"
+    },
+    {
+      "codePoint": "08B9",
+      "value": "R"
+    },
+    {
+      "codePoint": "08BA",
+      "value": "D"
+    },
+    {
+      "codePoint": "08BB",
+      "value": "D"
+    },
+    {
+      "codePoint": "08BC",
+      "value": "D"
+    },
+    {
+      "codePoint": "08BD",
+      "value": "D"
+    },
+    {
+      "codePoint": "08BE",
+      "value": "D"
+    },
+    {
+      "codePoint": "08BF",
+      "value": "D"
+    },
+    {
+      "codePoint": "08C0",
+      "value": "D"
+    },
+    {
+      "codePoint": "08C1",
+      "value": "D"
+    },
+    {
+      "codePoint": "08C2",
+      "value": "D"
+    },
+    {
+      "codePoint": "08C3",
+      "value": "D"
+    },
+    {
+      "codePoint": "08C4",
+      "value": "D"
+    },
+    {
+      "codePoint": "08C5",
+      "value": "D"
+    },
+    {
+      "codePoint": "08C6",
+      "value": "D"
+    },
+    {
+      "codePoint": "08C7",
+      "value": "D"
+    },
+    {
+      "codePoint": "08C8",
+      "value": "D"
+    },
+    {
+      "codePoint": "08E2",
+      "value": "U"
+    },
+    {
+      "codePoint": "1806",
+      "value": "U"
+    },
+    {
+      "codePoint": "1807",
+      "value": "D"
+    },
+    {
+      "codePoint": "180A",
+      "value": "C"
+    },
+    {
+      "codePoint": "180E",
+      "value": "U"
+    },
+    {
+      "codePoint": "1820",
+      "value": "D"
+    },
+    {
+      "codePoint": "1821",
+      "value": "D"
+    },
+    {
+      "codePoint": "1822",
+      "value": "D"
+    },
+    {
+      "codePoint": "1823",
+      "value": "D"
+    },
+    {
+      "codePoint": "1824",
+      "value": "D"
+    },
+    {
+      "codePoint": "1825",
+      "value": "D"
+    },
+    {
+      "codePoint": "1826",
+      "value": "D"
+    },
+    {
+      "codePoint": "1827",
+      "value": "D"
+    },
+    {
+      "codePoint": "1828",
+      "value": "D"
+    },
+    {
+      "codePoint": "1829",
+      "value": "D"
+    },
+    {
+      "codePoint": "182A",
+      "value": "D"
+    },
+    {
+      "codePoint": "182B",
+      "value": "D"
+    },
+    {
+      "codePoint": "182C",
+      "value": "D"
+    },
+    {
+      "codePoint": "182D",
+      "value": "D"
+    },
+    {
+      "codePoint": "182E",
+      "value": "D"
+    },
+    {
+      "codePoint": "182F",
+      "value": "D"
+    },
+    {
+      "codePoint": "1830",
+      "value": "D"
+    },
+    {
+      "codePoint": "1831",
+      "value": "D"
+    },
+    {
+      "codePoint": "1832",
+      "value": "D"
+    },
+    {
+      "codePoint": "1833",
+      "value": "D"
+    },
+    {
+      "codePoint": "1834",
+      "value": "D"
+    },
+    {
+      "codePoint": "1835",
+      "value": "D"
+    },
+    {
+      "codePoint": "1836",
+      "value": "D"
+    },
+    {
+      "codePoint": "1837",
+      "value": "D"
+    },
+    {
+      "codePoint": "1838",
+      "value": "D"
+    },
+    {
+      "codePoint": "1839",
+      "value": "D"
+    },
+    {
+      "codePoint": "183A",
+      "value": "D"
+    },
+    {
+      "codePoint": "183B",
+      "value": "D"
+    },
+    {
+      "codePoint": "183C",
+      "value": "D"
+    },
+    {
+      "codePoint": "183D",
+      "value": "D"
+    },
+    {
+      "codePoint": "183E",
+      "value": "D"
+    },
+    {
+      "codePoint": "183F",
+      "value": "D"
+    },
+    {
+      "codePoint": "1840",
+      "value": "D"
+    },
+    {
+      "codePoint": "1841",
+      "value": "D"
+    },
+    {
+      "codePoint": "1842",
+      "value": "D"
+    },
+    {
+      "codePoint": "1843",
+      "value": "D"
+    },
+    {
+      "codePoint": "1844",
+      "value": "D"
+    },
+    {
+      "codePoint": "1845",
+      "value": "D"
+    },
+    {
+      "codePoint": "1846",
+      "value": "D"
+    },
+    {
+      "codePoint": "1847",
+      "value": "D"
+    },
+    {
+      "codePoint": "1848",
+      "value": "D"
+    },
+    {
+      "codePoint": "1849",
+      "value": "D"
+    },
+    {
+      "codePoint": "184A",
+      "value": "D"
+    },
+    {
+      "codePoint": "184B",
+      "value": "D"
+    },
+    {
+      "codePoint": "184C",
+      "value": "D"
+    },
+    {
+      "codePoint": "184D",
+      "value": "D"
+    },
+    {
+      "codePoint": "184E",
+      "value": "D"
+    },
+    {
+      "codePoint": "184F",
+      "value": "D"
+    },
+    {
+      "codePoint": "1850",
+      "value": "D"
+    },
+    {
+      "codePoint": "1851",
+      "value": "D"
+    },
+    {
+      "codePoint": "1852",
+      "value": "D"
+    },
+    {
+      "codePoint": "1853",
+      "value": "D"
+    },
+    {
+      "codePoint": "1854",
+      "value": "D"
+    },
+    {
+      "codePoint": "1855",
+      "value": "D"
+    },
+    {
+      "codePoint": "1856",
+      "value": "D"
+    },
+    {
+      "codePoint": "1857",
+      "value": "D"
+    },
+    {
+      "codePoint": "1858",
+      "value": "D"
+    },
+    {
+      "codePoint": "1859",
+      "value": "D"
+    },
+    {
+      "codePoint": "185A",
+      "value": "D"
+    },
+    {
+      "codePoint": "185B",
+      "value": "D"
+    },
+    {
+      "codePoint": "185C",
+      "value": "D"
+    },
+    {
+      "codePoint": "185D",
+      "value": "D"
+    },
+    {
+      "codePoint": "185E",
+      "value": "D"
+    },
+    {
+      "codePoint": "185F",
+      "value": "D"
+    },
+    {
+      "codePoint": "1860",
+      "value": "D"
+    },
+    {
+      "codePoint": "1861",
+      "value": "D"
+    },
+    {
+      "codePoint": "1862",
+      "value": "D"
+    },
+    {
+      "codePoint": "1863",
+      "value": "D"
+    },
+    {
+      "codePoint": "1864",
+      "value": "D"
+    },
+    {
+      "codePoint": "1865",
+      "value": "D"
+    },
+    {
+      "codePoint": "1866",
+      "value": "D"
+    },
+    {
+      "codePoint": "1867",
+      "value": "D"
+    },
+    {
+      "codePoint": "1868",
+      "value": "D"
+    },
+    {
+      "codePoint": "1869",
+      "value": "D"
+    },
+    {
+      "codePoint": "186A",
+      "value": "D"
+    },
+    {
+      "codePoint": "186B",
+      "value": "D"
+    },
+    {
+      "codePoint": "186C",
+      "value": "D"
+    },
+    {
+      "codePoint": "186D",
+      "value": "D"
+    },
+    {
+      "codePoint": "186E",
+      "value": "D"
+    },
+    {
+      "codePoint": "186F",
+      "value": "D"
+    },
+    {
+      "codePoint": "1870",
+      "value": "D"
+    },
+    {
+      "codePoint": "1871",
+      "value": "D"
+    },
+    {
+      "codePoint": "1872",
+      "value": "D"
+    },
+    {
+      "codePoint": "1873",
+      "value": "D"
+    },
+    {
+      "codePoint": "1874",
+      "value": "D"
+    },
+    {
+      "codePoint": "1875",
+      "value": "D"
+    },
+    {
+      "codePoint": "1876",
+      "value": "D"
+    },
+    {
+      "codePoint": "1877",
+      "value": "D"
+    },
+    {
+      "codePoint": "1878",
+      "value": "D"
+    },
+    {
+      "codePoint": "1880",
+      "value": "U"
+    },
+    {
+      "codePoint": "1881",
+      "value": "U"
+    },
+    {
+      "codePoint": "1882",
+      "value": "U"
+    },
+    {
+      "codePoint": "1883",
+      "value": "U"
+    },
+    {
+      "codePoint": "1884",
+      "value": "U"
+    },
+    {
+      "codePoint": "1885",
+      "value": "T"
+    },
+    {
+      "codePoint": "1886",
+      "value": "T"
+    },
+    {
+      "codePoint": "1887",
+      "value": "D"
+    },
+    {
+      "codePoint": "1888",
+      "value": "D"
+    },
+    {
+      "codePoint": "1889",
+      "value": "D"
+    },
+    {
+      "codePoint": "188A",
+      "value": "D"
+    },
+    {
+      "codePoint": "188B",
+      "value": "D"
+    },
+    {
+      "codePoint": "188C",
+      "value": "D"
+    },
+    {
+      "codePoint": "188D",
+      "value": "D"
+    },
+    {
+      "codePoint": "188E",
+      "value": "D"
+    },
+    {
+      "codePoint": "188F",
+      "value": "D"
+    },
+    {
+      "codePoint": "1890",
+      "value": "D"
+    },
+    {
+      "codePoint": "1891",
+      "value": "D"
+    },
+    {
+      "codePoint": "1892",
+      "value": "D"
+    },
+    {
+      "codePoint": "1893",
+      "value": "D"
+    },
+    {
+      "codePoint": "1894",
+      "value": "D"
+    },
+    {
+      "codePoint": "1895",
+      "value": "D"
+    },
+    {
+      "codePoint": "1896",
+      "value": "D"
+    },
+    {
+      "codePoint": "1897",
+      "value": "D"
+    },
+    {
+      "codePoint": "1898",
+      "value": "D"
+    },
+    {
+      "codePoint": "1899",
+      "value": "D"
+    },
+    {
+      "codePoint": "189A",
+      "value": "D"
+    },
+    {
+      "codePoint": "189B",
+      "value": "D"
+    },
+    {
+      "codePoint": "189C",
+      "value": "D"
+    },
+    {
+      "codePoint": "189D",
+      "value": "D"
+    },
+    {
+      "codePoint": "189E",
+      "value": "D"
+    },
+    {
+      "codePoint": "189F",
+      "value": "D"
+    },
+    {
+      "codePoint": "18A0",
+      "value": "D"
+    },
+    {
+      "codePoint": "18A1",
+      "value": "D"
+    },
+    {
+      "codePoint": "18A2",
+      "value": "D"
+    },
+    {
+      "codePoint": "18A3",
+      "value": "D"
+    },
+    {
+      "codePoint": "18A4",
+      "value": "D"
+    },
+    {
+      "codePoint": "18A5",
+      "value": "D"
+    },
+    {
+      "codePoint": "18A6",
+      "value": "D"
+    },
+    {
+      "codePoint": "18A7",
+      "value": "D"
+    },
+    {
+      "codePoint": "18A8",
+      "value": "D"
+    },
+    {
+      "codePoint": "18AA",
+      "value": "D"
+    },
+    {
+      "codePoint": "200C",
+      "value": "U"
+    },
+    {
+      "codePoint": "200D",
+      "value": "C"
+    },
+    {
+      "codePoint": "202F",
+      "value": "U"
+    },
+    {
+      "codePoint": "2066",
+      "value": "U"
+    },
+    {
+      "codePoint": "2067",
+      "value": "U"
+    },
+    {
+      "codePoint": "2068",
+      "value": "U"
+    },
+    {
+      "codePoint": "2069",
+      "value": "U"
+    },
+    {
+      "codePoint": "A840",
+      "value": "D"
+    },
+    {
+      "codePoint": "A841",
+      "value": "D"
+    },
+    {
+      "codePoint": "A842",
+      "value": "D"
+    },
+    {
+      "codePoint": "A843",
+      "value": "D"
+    },
+    {
+      "codePoint": "A844",
+      "value": "D"
+    },
+    {
+      "codePoint": "A845",
+      "value": "D"
+    },
+    {
+      "codePoint": "A846",
+      "value": "D"
+    },
+    {
+      "codePoint": "A847",
+      "value": "D"
+    },
+    {
+      "codePoint": "A848",
+      "value": "D"
+    },
+    {
+      "codePoint": "A849",
+      "value": "D"
+    },
+    {
+      "codePoint": "A84A",
+      "value": "D"
+    },
+    {
+      "codePoint": "A84B",
+      "value": "D"
+    },
+    {
+      "codePoint": "A84C",
+      "value": "D"
+    },
+    {
+      "codePoint": "A84D",
+      "value": "D"
+    },
+    {
+      "codePoint": "A84E",
+      "value": "D"
+    },
+    {
+      "codePoint": "A84F",
+      "value": "D"
+    },
+    {
+      "codePoint": "A850",
+      "value": "D"
+    },
+    {
+      "codePoint": "A851",
+      "value": "D"
+    },
+    {
+      "codePoint": "A852",
+      "value": "D"
+    },
+    {
+      "codePoint": "A853",
+      "value": "D"
+    },
+    {
+      "codePoint": "A854",
+      "value": "D"
+    },
+    {
+      "codePoint": "A855",
+      "value": "D"
+    },
+    {
+      "codePoint": "A856",
+      "value": "D"
+    },
+    {
+      "codePoint": "A857",
+      "value": "D"
+    },
+    {
+      "codePoint": "A858",
+      "value": "D"
+    },
+    {
+      "codePoint": "A859",
+      "value": "D"
+    },
+    {
+      "codePoint": "A85A",
+      "value": "D"
+    },
+    {
+      "codePoint": "A85B",
+      "value": "D"
+    },
+    {
+      "codePoint": "A85C",
+      "value": "D"
+    },
+    {
+      "codePoint": "A85D",
+      "value": "D"
+    },
+    {
+      "codePoint": "A85E",
+      "value": "D"
+    },
+    {
+      "codePoint": "A85F",
+      "value": "D"
+    },
+    {
+      "codePoint": "A860",
+      "value": "D"
+    },
+    {
+      "codePoint": "A861",
+      "value": "D"
+    },
+    {
+      "codePoint": "A862",
+      "value": "D"
+    },
+    {
+      "codePoint": "A863",
+      "value": "D"
+    },
+    {
+      "codePoint": "A864",
+      "value": "D"
+    },
+    {
+      "codePoint": "A865",
+      "value": "D"
+    },
+    {
+      "codePoint": "A866",
+      "value": "D"
+    },
+    {
+      "codePoint": "A867",
+      "value": "D"
+    },
+    {
+      "codePoint": "A868",
+      "value": "D"
+    },
+    {
+      "codePoint": "A869",
+      "value": "D"
+    },
+    {
+      "codePoint": "A86A",
+      "value": "D"
+    },
+    {
+      "codePoint": "A86B",
+      "value": "D"
+    },
+    {
+      "codePoint": "A86C",
+      "value": "D"
+    },
+    {
+      "codePoint": "A86D",
+      "value": "D"
+    },
+    {
+      "codePoint": "A86E",
+      "value": "D"
+    },
+    {
+      "codePoint": "A86F",
+      "value": "D"
+    },
+    {
+      "codePoint": "A870",
+      "value": "D"
+    },
+    {
+      "codePoint": "A871",
+      "value": "D"
+    },
+    {
+      "codePoint": "A872",
+      "value": "L"
+    },
+    {
+      "codePoint": "A873",
+      "value": "U"
+    },
+    {
+      "codePoint": "10AC0",
+      "value": "D"
+    },
+    {
+      "codePoint": "10AC1",
+      "value": "D"
+    },
+    {
+      "codePoint": "10AC2",
+      "value": "D"
+    },
+    {
+      "codePoint": "10AC3",
+      "value": "D"
+    },
+    {
+      "codePoint": "10AC4",
+      "value": "D"
+    },
+    {
+      "codePoint": "10AC5",
+      "value": "R"
+    },
+    {
+      "codePoint": "10AC6",
+      "value": "U"
+    },
+    {
+      "codePoint": "10AC7",
+      "value": "R"
+    },
+    {
+      "codePoint": "10AC8",
+      "value": "U"
+    },
+    {
+      "codePoint": "10AC9",
+      "value": "R"
+    },
+    {
+      "codePoint": "10ACA",
+      "value": "R"
+    },
+    {
+      "codePoint": "10ACB",
+      "value": "U"
+    },
+    {
+      "codePoint": "10ACC",
+      "value": "U"
+    },
+    {
+      "codePoint": "10ACD",
+      "value": "L"
+    },
+    {
+      "codePoint": "10ACE",
+      "value": "R"
+    },
+    {
+      "codePoint": "10ACF",
+      "value": "R"
+    },
+    {
+      "codePoint": "10AD0",
+      "value": "R"
+    },
+    {
+      "codePoint": "10AD1",
+      "value": "R"
+    },
+    {
+      "codePoint": "10AD2",
+      "value": "R"
+    },
+    {
+      "codePoint": "10AD3",
+      "value": "D"
+    },
+    {
+      "codePoint": "10AD4",
+      "value": "D"
+    },
+    {
+      "codePoint": "10AD5",
+      "value": "D"
+    },
+    {
+      "codePoint": "10AD6",
+      "value": "D"
+    },
+    {
+      "codePoint": "10AD7",
+      "value": "L"
+    },
+    {
+      "codePoint": "10AD8",
+      "value": "D"
+    },
+    {
+      "codePoint": "10AD9",
+      "value": "D"
+    },
+    {
+      "codePoint": "10ADA",
+      "value": "D"
+    },
+    {
+      "codePoint": "10ADB",
+      "value": "D"
+    },
+    {
+      "codePoint": "10ADC",
+      "value": "D"
+    },
+    {
+      "codePoint": "10ADD",
+      "value": "R"
+    },
+    {
+      "codePoint": "10ADE",
+      "value": "D"
+    },
+    {
+      "codePoint": "10ADF",
+      "value": "D"
+    },
+    {
+      "codePoint": "10AE0",
+      "value": "D"
+    },
+    {
+      "codePoint": "10AE1",
+      "value": "R"
+    },
+    {
+      "codePoint": "10AE2",
+      "value": "U"
+    },
+    {
+      "codePoint": "10AE3",
+      "value": "U"
+    },
+    {
+      "codePoint": "10AE4",
+      "value": "R"
+    },
+    {
+      "codePoint": "10AEB",
+      "value": "D"
+    },
+    {
+      "codePoint": "10AEC",
+      "value": "D"
+    },
+    {
+      "codePoint": "10AED",
+      "value": "D"
+    },
+    {
+      "codePoint": "10AEE",
+      "value": "D"
+    },
+    {
+      "codePoint": "10AEF",
+      "value": "R"
+    },
+    {
+      "codePoint": "10B80",
+      "value": "D"
+    },
+    {
+      "codePoint": "10B81",
+      "value": "R"
+    },
+    {
+      "codePoint": "10B82",
+      "value": "D"
+    },
+    {
+      "codePoint": "10B83",
+      "value": "R"
+    },
+    {
+      "codePoint": "10B84",
+      "value": "R"
+    },
+    {
+      "codePoint": "10B85",
+      "value": "R"
+    },
+    {
+      "codePoint": "10B86",
+      "value": "D"
+    },
+    {
+      "codePoint": "10B87",
+      "value": "D"
+    },
+    {
+      "codePoint": "10B88",
+      "value": "D"
+    },
+    {
+      "codePoint": "10B89",
+      "value": "R"
+    },
+    {
+      "codePoint": "10B8A",
+      "value": "D"
+    },
+    {
+      "codePoint": "10B8B",
+      "value": "D"
+    },
+    {
+      "codePoint": "10B8C",
+      "value": "R"
+    },
+    {
+      "codePoint": "10B8D",
+      "value": "D"
+    },
+    {
+      "codePoint": "10B8E",
+      "value": "R"
+    },
+    {
+      "codePoint": "10B8F",
+      "value": "R"
+    },
+    {
+      "codePoint": "10B90",
+      "value": "D"
+    },
+    {
+      "codePoint": "10B91",
+      "value": "R"
+    },
+    {
+      "codePoint": "10BA9",
+      "value": "R"
+    },
+    {
+      "codePoint": "10BAA",
+      "value": "R"
+    },
+    {
+      "codePoint": "10BAB",
+      "value": "R"
+    },
+    {
+      "codePoint": "10BAC",
+      "value": "R"
+    },
+    {
+      "codePoint": "10BAD",
+      "value": "D"
+    },
+    {
+      "codePoint": "10BAE",
+      "value": "D"
+    },
+    {
+      "codePoint": "10BAF",
+      "value": "U"
+    },
+    {
+      "codePoint": "10D00",
+      "value": "L"
+    },
+    {
+      "codePoint": "10D01",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D02",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D03",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D04",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D05",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D06",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D07",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D08",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D09",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D0A",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D0B",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D0C",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D0D",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D0E",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D0F",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D10",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D11",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D12",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D13",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D14",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D15",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D16",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D17",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D18",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D19",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D1A",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D1B",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D1C",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D1D",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D1E",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D1F",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D20",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D21",
+      "value": "D"
+    },
+    {
+      "codePoint": "10D22",
+      "value": "R"
+    },
+    {
+      "codePoint": "10D23",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F30",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F31",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F32",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F33",
+      "value": "R"
+    },
+    {
+      "codePoint": "10F34",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F35",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F36",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F37",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F38",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F39",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F3A",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F3B",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F3C",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F3D",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F3E",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F3F",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F40",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F41",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F42",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F43",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F44",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F45",
+      "value": "U"
+    },
+    {
+      "codePoint": "10F51",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F52",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F53",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F54",
+      "value": "R"
+    },
+    {
+      "codePoint": "10F70",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F71",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F72",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F73",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F74",
+      "value": "R"
+    },
+    {
+      "codePoint": "10F75",
+      "value": "R"
+    },
+    {
+      "codePoint": "10F76",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F77",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F78",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F79",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F7A",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F7B",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F7C",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F7D",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F7E",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F7F",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F80",
+      "value": "D"
+    },
+    {
+      "codePoint": "10F81",
+      "value": "D"
+    },
+    {
+      "codePoint": "10FB0",
+      "value": "D"
+    },
+    {
+      "codePoint": "10FB1",
+      "value": "U"
+    },
+    {
+      "codePoint": "10FB2",
+      "value": "D"
+    },
+    {
+      "codePoint": "10FB3",
+      "value": "D"
+    },
+    {
+      "codePoint": "10FB4",
+      "value": "R"
+    },
+    {
+      "codePoint": "10FB5",
+      "value": "R"
+    },
+    {
+      "codePoint": "10FB6",
+      "value": "R"
+    },
+    {
+      "codePoint": "10FB7",
+      "value": "U"
+    },
+    {
+      "codePoint": "10FB8",
+      "value": "D"
+    },
+    {
+      "codePoint": "10FB9",
+      "value": "R"
+    },
+    {
+      "codePoint": "10FBA",
+      "value": "R"
+    },
+    {
+      "codePoint": "10FBB",
+      "value": "D"
+    },
+    {
+      "codePoint": "10FBC",
+      "value": "D"
+    },
+    {
+      "codePoint": "10FBD",
+      "value": "R"
+    },
+    {
+      "codePoint": "10FBE",
+      "value": "D"
+    },
+    {
+      "codePoint": "10FBF",
+      "value": "D"
+    },
+    {
+      "codePoint": "10FC0",
+      "value": "U"
+    },
+    {
+      "codePoint": "10FC1",
+      "value": "D"
+    },
+    {
+      "codePoint": "10FC2",
+      "value": "R"
+    },
+    {
+      "codePoint": "10FC3",
+      "value": "R"
+    },
+    {
+      "codePoint": "10FC4",
+      "value": "D"
+    },
+    {
+      "codePoint": "10FC5",
+      "value": "U"
+    },
+    {
+      "codePoint": "10FC6",
+      "value": "U"
+    },
+    {
+      "codePoint": "10FC7",
+      "value": "U"
+    },
+    {
+      "codePoint": "10FC8",
+      "value": "U"
+    },
+    {
+      "codePoint": "10FC9",
+      "value": "R"
+    },
+    {
+      "codePoint": "10FCA",
+      "value": "D"
+    },
+    {
+      "codePoint": "10FCB",
+      "value": "L"
+    },
+    {
+      "codePoint": "110BD",
+      "value": "U"
+    },
+    {
+      "codePoint": "110CD",
+      "value": "U"
+    },
+    {
+      "codePoint": "1E900",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E901",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E902",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E903",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E904",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E905",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E906",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E907",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E908",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E909",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E90A",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E90B",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E90C",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E90D",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E90E",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E90F",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E910",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E911",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E912",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E913",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E914",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E915",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E916",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E917",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E918",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E919",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E91A",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E91B",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E91C",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E91D",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E91E",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E91F",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E920",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E921",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E922",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E923",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E924",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E925",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E926",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E927",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E928",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E929",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E92A",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E92B",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E92C",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E92D",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E92E",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E92F",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E930",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E931",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E932",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E933",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E934",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E935",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E936",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E937",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E938",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E939",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E93A",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E93B",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E93C",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E93D",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E93E",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E93F",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E940",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E941",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E942",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E943",
+      "value": "D"
+    },
+    {
+      "codePoint": "1E94B",
+      "value": "T"
+    }
+  ]
+}

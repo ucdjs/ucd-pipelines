@@ -1,31 +1,29 @@
-import { definePipelineRoute, byName } from "@ucdjs/pipelines-core";
-import type { ResolvedEntry } from "@ucdjs/pipelines-core";
+import type { ResolvedEntry } from "@ucdjs/pipeline-core";
+import { byName, definePipelineRoute, filesystemSink } from "@ucdjs/pipeline-core";
 
 export const arabicShapingRoute = definePipelineRoute({
   id: "arabic-shaping",
   filter: byName("ArabicShaping.txt"),
   parser: async function* (ctx) {
-    const lines = ctx.readLines();
-
-    for await (const line of lines) {
+    for await (const line of ctx.readLines()) {
       const trimmed = line.trim();
-      if (!trimmed || trimmed.startsWith("#")) continue;
+      if (!trimmed || ctx.isComment(trimmed)) continue;
 
-      // Parse format: "codePoint; shortName; joiningType; joiningGroup # comment"
-      const parts = trimmed.split("#")[0].trim().split(";");
-      if (parts.length >= 4) {
-        const [codePoint, shortName, joiningType, joiningGroup] = parts.map((p) => p.trim());
-        yield {
-          sourceFile: ctx.file.path,
-          kind: "point" as const,
-          codePoint,
-          value: joiningType,
-          meta: {
-            shortName,
-            joiningGroup,
-          },
-        };
-      }
+      const parts = trimmed.split("#")[0]!.trim().split(";");
+      if (parts.length < 4) continue;
+
+      const [codePoint, shortName, joiningType, joiningGroup] = parts.map((p) => p.trim());
+
+      yield {
+        sourceFile: ctx.file.path,
+        kind: "point" as const,
+        codePoint,
+        value: joiningType,
+        meta: {
+          shortName,
+          joiningGroup,
+        },
+      };
     }
   },
   resolver: async (ctx, rows) => {
@@ -48,4 +46,12 @@ export const arabicShapingRoute = definePipelineRoute({
       },
     ];
   },
+  outputs: [
+    {
+      id: "json",
+      sink: filesystemSink({ baseDir: "output" }),
+      format: "json",
+      path: "{version}/{property:kebab}.json",
+    },
+  ],
 });
