@@ -1,12 +1,6 @@
-import { createPkgHooks } from "#helpers/pkg-hooks";
 import { arabicShapingRoute } from "#routes/core/arabic-shaping";
 import { ucdStoreSource } from "#sources/ucd-store";
 import { byExt, definePipeline } from "@ucdjs/pipeline-core";
-
-const dataPackageHooks = createPkgHooks({
-  packageName: (version) => `@ucdjs-data/data-${version}`,
-  packageFolder: "data",
-});
 
 export const arabicShapingPipeline = definePipeline({
   id: "arabic-shaping",
@@ -18,5 +12,4 @@ export const arabicShapingPipeline = definePipeline({
   routes: [arabicShapingRoute],
   include: byExt(".txt"),
   strict: false,
-  hooks: dataPackageHooks,
 });
